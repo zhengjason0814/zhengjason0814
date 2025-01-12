@@ -5,6 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  Email: jasonzheng0814@gmail.com
+  LinkedIn: https://www.linkedin.com/in/zhengjason08/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
