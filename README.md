@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jason Zheng</h1>
 <h3 align="center">An aspiring software developer in NYC.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN Stack**
 - 🌱 Also working on developing my personal portfolio!
 
 <h3 align="left">Connect with me:</h3>
