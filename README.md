@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jason Zheng</h1>
 <h3 align="center">An aspiring software developer in NYC.</h3>
 
-- 🌱 I’m currently learning **AWS Cloud**
+- 🌱 I’m currently learning **scalable development!**
 - 🌱 Also working on a new finance project!
 
 <h3 align="left">Connect with me:</h3>
