@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring software developer in NYC.</h3>
 
 - 🌱 I’m currently learning **scalable development!**
-- 🌱 Also working on a new finance project!
+- 🌱 Also working on a new portfolio project!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
